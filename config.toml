@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#007BFF"
+backgroundColor = "#121212"
+secondaryBackgroundColor = "#1F1F1F"
+textColor = "#FFFFFF"
+font = "serif"  # This maps to Times New Roman or system serif font
